@@ -4,7 +4,7 @@
   <title><![CDATA[Blogmiep]]></title>
   <link href="http://blogmiep.github.io/atom.xml" rel="self"/>
   <link href="http://blogmiep.github.io/"/>
-  <updated>2013-06-19T08:24:32+02:00</updated>
+  <updated>2013-06-19T08:36:02+02:00</updated>
   <id>http://blogmiep.github.io/</id>
   <author>
     <name><![CDATA[Peter Berkenbosch]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA['Lekker miepen']]></title>
+    <link href="http://blogmiep.github.io/blog/2013/06/19/lekker-miepen/"/>
+    <updated>2013-06-19T08:30:00+02:00</updated>
+    <id>http://blogmiep.github.io/blog/2013/06/19/lekker-miepen</id>
+    <content type="html"><![CDATA[<p>Beetje flauw van al het online miepen, dus wat doe je dan? Start je gewoon zelf een blog. :D <em>zou ik nu ook gratis reisjes krijgen?</em></p>
+
+<p>De inspiratie is het gemiep tussen twee heren <a href="http://www.conweets.com/eetschrijver/norbertkoreman/">hier</a></p>
+
+<p>Oordeel zelf!</p>
+]]></content>
+  </entry>
   
 </feed>
